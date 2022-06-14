@@ -1,0 +1,23 @@
+{
+  "name": "week-9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcpfdev/express.js-static.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcpfdev/express.js-static/issues"
+  },
+  "homepage": "https://github.com/lcpfdev/express.js-static#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
